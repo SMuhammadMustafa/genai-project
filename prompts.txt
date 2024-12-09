@@ -1,0 +1,3 @@
+- Generate an architecture diagram for a Conditional Generative Adversarial Network (cGAN).
+- Generate an architecture diagram for a StyleGAN.
+- how to load safetensors weights with stable diffusion pretrained model
